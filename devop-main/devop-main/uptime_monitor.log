@@ -1,0 +1,45 @@
+2025-06-29 19:17:05,484 - INFO - Starting uptime check for 5 websites...
+2025-06-29 19:17:11,423 - INFO - Results saved to uptime_results.json
+2025-06-29 19:24:30,411 - INFO - Starting uptime check for 5 websites...
+2025-06-29 19:24:32,261 - INFO - [UP] https://google.com is UP - Response time: 1849.13ms
+2025-06-29 19:24:32,846 - INFO - [UP] https://github.com is UP - Response time: 577.11ms
+2025-06-29 19:24:33,980 - INFO - [UP] https://stackoverflow.com is UP - Response time: 1130.53ms
+2025-06-29 19:24:35,019 - INFO - [UP] https://python.org is UP - Response time: 1034.64ms
+2025-06-29 19:24:36,278 - INFO - [UP] https://example.com is UP - Response time: 1256.27ms
+2025-06-29 19:24:36,286 - INFO - [SUMMARY] 5 UP, 0 DOWN out of 5 websites
+2025-06-29 19:24:36,288 - INFO - Results saved to uptime_results.json
+2025-06-29 19:24:36,288 - INFO - All websites are up! All systems operational.
+2025-06-29 19:37:21,505 - INFO - Starting uptime check for 5 websites...
+2025-06-29 19:37:23,805 - INFO - [UP] https://google.com is UP - Response time: 2299.08ms
+2025-06-29 19:37:24,557 - INFO - [UP] https://github.com is UP - Response time: 745.32ms
+2025-06-29 19:37:25,799 - INFO - [UP] https://stackoverflow.com is UP - Response time: 1239.31ms
+2025-06-29 19:37:26,901 - INFO - [UP] https://python.org is UP - Response time: 1099.61ms
+2025-06-29 19:37:28,167 - INFO - [UP] https://example.com is UP - Response time: 1262.84ms
+2025-06-29 19:37:28,171 - INFO - [SUMMARY] 5 UP, 0 DOWN out of 5 websites
+2025-06-29 19:37:28,173 - INFO - Results saved to uptime_results.json
+2025-06-29 19:37:28,173 - INFO - All websites are up! All systems operational.
+2025-06-29 19:44:23,561 - INFO - Starting uptime check for 5 websites...
+2025-06-29 19:44:25,035 - INFO - [UP] https://httpbin.org/status/200 is UP - Response time: 1472.38ms
+2025-06-29 19:44:26,400 - WARNING - [WARNING] https://httpbin.org/status/404 returned status code 404 - Response time: 1362.44ms
+2025-06-29 19:44:27,801 - WARNING - [WARNING] https://httpbin.org/status/500 returned status code 500 - Response time: 1396.22ms
+2025-06-29 19:44:32,546 - INFO - [UP] https://httpbin.org/delay/2 is UP - Response time: 4742.43ms
+2025-06-29 19:44:32,664 - ERROR - [DOWN] https://nonexistent-website-12345.com is DOWN - Connection Error
+2025-06-29 19:44:32,665 - INFO - [SUMMARY] 2 UP, 3 DOWN out of 5 websites
+2025-06-29 19:44:32,668 - INFO - Results saved to test_results.json
+2025-06-29 19:48:18,785 - INFO - Starting uptime check for 5 websites...
+2025-06-29 19:48:20,811 - INFO - [UP] https://google.com is UP - Response time: 2025.67ms
+2025-06-29 19:48:21,440 - INFO - [UP] https://github.com is UP - Response time: 622.5ms
+2025-06-29 19:48:23,076 - INFO - [UP] https://stackoverflow.com is UP - Response time: 1631.91ms
+2025-06-29 19:48:24,092 - INFO - [UP] https://python.org is UP - Response time: 1012.08ms
+2025-06-29 19:48:25,399 - INFO - [UP] https://example.com is UP - Response time: 1304.11ms
+2025-06-29 19:48:25,403 - INFO - [SUMMARY] 5 UP, 0 DOWN out of 5 websites
+2025-06-29 19:48:25,405 - INFO - Results saved to uptime_results.json
+2025-06-29 19:48:25,406 - INFO - All websites are up! All systems operational.
+2025-06-29 19:51:49,708 - INFO - Starting uptime check for 5 websites...
+2025-06-29 19:51:51,924 - INFO - [UP] https://httpbin.org/status/200 is UP - Response time: 2215.37ms
+2025-06-29 19:51:53,459 - WARNING - [WARNING] https://httpbin.org/status/404 returned status code 404 - Response time: 1530.96ms
+2025-06-29 19:51:54,787 - WARNING - [WARNING] https://httpbin.org/status/500 returned status code 500 - Response time: 1326.32ms
+2025-06-29 19:51:58,218 - INFO - [UP] https://httpbin.org/delay/2 is UP - Response time: 3427.18ms
+2025-06-29 19:51:58,282 - ERROR - [DOWN] https://nonexistent-website-12345.com is DOWN - Connection Error
+2025-06-29 19:51:58,283 - INFO - [SUMMARY] 2 UP, 3 DOWN out of 5 websites
+2025-06-29 19:51:58,285 - INFO - Results saved to test_results.json

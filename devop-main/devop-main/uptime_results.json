@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://google.com",
+    "status": "UP",
+    "status_code": 200,
+    "response_time_ms": 2025.67,
+    "timestamp": "2025-06-29T19:48:20.811431",
+    "error": null
+  },
+  {
+    "url": "https://github.com",
+    "status": "UP",
+    "status_code": 200,
+    "response_time_ms": 622.5,
+    "timestamp": "2025-06-29T19:48:21.439944",
+    "error": null
+  },
+  {
+    "url": "https://stackoverflow.com",
+    "status": "UP",
+    "status_code": 200,
+    "response_time_ms": 1631.91,
+    "timestamp": "2025-06-29T19:48:23.076411",
+    "error": null
+  },
+  {
+    "url": "https://python.org",
+    "status": "UP",
+    "status_code": 200,
+    "response_time_ms": 1012.08,
+    "timestamp": "2025-06-29T19:48:24.092451",
+    "error": null
+  },
+  {
+    "url": "https://example.com",
+    "status": "UP",
+    "status_code": 200,
+    "response_time_ms": 1304.11,
+    "timestamp": "2025-06-29T19:48:25.399752",
+    "error": null
+  }
+]
